@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## The first China-Russia Conference on Numerical Optimization and Machine Learning
 
-You can use the [editor on GitHub](https://github.com/Daulbaev/workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Dates
+July 11-14, Moscow time 10:00-13:00/Beijing time 15:00-18:00
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tencent meeting: 625-4141-9475
 
-### Markdown
+### Announcement 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first China-Russia Conference on Numerical Optimization and Machine Learning (CRCNOML) will be hold online from July 11-14, 2022. This conference is organized by the School of Mathematical Science of Beihang University, Beihang International Center for Mathematical Research, Laboratory of Computational Intelligence of Skoltech, and Center for Artificial Intelligence Technology of Skoltech.
 
-```markdown
-Syntax highlighted code block
+The main aim of this conference is to strengthen the exchanges and the cooperation between scholars in China and Russia, promote the integration of numerical optimization and machine learning, and update the most recent advances in numerical optimization and machine learning. The interested topics includes (but are not limited to) algorithms and theory in nonlinear optimization, numerical methods for tensor computing, machine learning, and mathematical foundations in artificial intelligence. 
 
-# Header 1
-## Header 2
-### Header 3
+We invite researchers and practitioners working in the field of numerical optimization and machine learning to join us in enjoying exciting mathematics in the summer of 2022!
 
-- Bulleted
-- List
+### Program and Speakers
 
-1. Numbered
-2. List
+To be announced...
 
-**Bold** and _Italic_ and `Code` text
+### Organizational Committee:
 
-[Link](url) and ![Image](src)
-```
+Deren Han (Beihang University)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Ivan Oseledets (Skoltech)
 
-### Jekyll Themes
+### Contact:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daulbaev/workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Chunfeng Cui: chunfengcui@buaa.edu.cn
 
-### Support or Contact
+Talgat Daulbaev: Talgat.Daulbaev@skoltech.ru 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bo Huang: bohuang0407@buaa.edu.cn 
